@@ -151,6 +151,6 @@ screenshots/
 
 ## Author
 
-Vaibhavi
+https://github.com/codedivaa
 
 AirInk AI – Hand Gesture Based Virtual Writing System
